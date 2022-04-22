@@ -6,7 +6,7 @@
 Este projeto desenvolvido enquanto aluna na [Trybe](https://www.betrybe.com/), tinha o objetivo de normalizar e popular uma estrutura para que seja possível executar queries.
 
 
-### Objetivos
+## Objetivos
 Após receber uma tabela não normalizada semelhante ao que poderia ser uma versão simplificada do banco de dados do Spotify, o intuito do projeto era exercitar as seguintes habilidades:
 
 - Analisar tabelas não normalizadas.
@@ -14,6 +14,15 @@ Após receber uma tabela não normalizada semelhante ao que poderia ser uma vers
 - Criar um banco de dados a partir de uma planilha que contém tabelas e dados.
 - Criar e modelar tabelas.
 - Queries que passam pelos principais comandos SQL
+---
+
+
+---
+
+## Captura de tela
+
+#### Exemplo de Queries
+![Query](queries.png)
 
 
 ## Tecnologias usadas
