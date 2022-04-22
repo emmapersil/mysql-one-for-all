@@ -23,6 +23,12 @@ Após receber uma tabela não normalizada semelhante ao que poderia ser uma vers
 
 #### Exemplo de Queries
 ![Query](queries.png)
+---
+
+#### Esquema das tabelas
+![Tables](table.png)
+---
+
 
 
 ## Tecnologias usadas
